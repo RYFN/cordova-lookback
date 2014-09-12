@@ -27,9 +27,9 @@
     </engines>
     <name>Lookback.io</name>
     <description>Cordova Lookback.io Plugin</description>
-    <license>TODO</license>
+    <license>ISC</license>
     <keywords>cordova,lookback</keywords>
-    <repo></repo>
+    <repo>https://github.com/RYFN/cordova-lookback</repo>
     <issue></issue>
     
     <!-- ios -->
