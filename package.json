@@ -1,0 +1,15 @@
+{
+  "name": "com.mubaloo.cordova.lookback",
+  "version": "1.0.0",
+  "description": "Cordova plugin for lookback.io",
+  "main": "",
+  "scripts": {
+   
+  },
+  "keywords": [
+    "cordova",
+    "lookback"
+  ],
+  "author": "Ryan French",
+  "license": "ISC"
+}
