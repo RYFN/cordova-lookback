@@ -49,16 +49,7 @@
         <source-file src="src/ios/CDVLookback.m" />
         
         <framework src="src/ios/lookback-sdk/HD/Lookback.framework" custom="true" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/GFSettings.storyboard" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-logo.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-logo@2x.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-logo.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-logo@2x.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-settings.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-settings@2x.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-status.png" />
-        <resource-file src="src/ios/lookback-sdk/Lookback-Resources/lookback-recorder-status@2x.png" />
-
+        <resource-file src="src/ios/lookback-sdk/Lookback-Resources" />
 
         <framework src="AVFoundation.framework" />
         <framework src="AudioToolbox.framework" />
