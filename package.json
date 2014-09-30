@@ -1,14 +1,14 @@
 {
-  "name": "com.mubaloo.cordova.lookback",
-  "version": "0.0.2",
+  "name": "io.lookback.sdk",
+  "version": "0.6.4",
   "cordova_name": "Lookback",
   "description": "Cordova plugin for lookback.io",
-  "repo": "git@github.com:RYFN/cordova-lookback.git",
+  "repo": "git@github.com:lookback/cordova-lookback.git",
   "keywords": [
     "cordova",
     "lookback"
   ],
-  "author": "Ryan French",
+  "author": "Joachim Bengtsson",
   "license": "ISC",
   "platforms": [ 
     "ios"

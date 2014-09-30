@@ -19,17 +19,17 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="com.mubaloo.cordova.lookback"
-      version="0.0.1">
+           id="io.lookback.sdk"
+      version="0.6.4">
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
     <name>Lookback.io</name>
-    <description>Cordova Lookback.io Plugin</description>
+    <description>Records your screen and uploads it to lookback.io: create video bug reports, demo videos or perform UX research.</description>
     <license>ISC</license>
-    <keywords>cordova,lookback</keywords>
-    <repo>https://github.com/RYFN/cordova-lookback</repo>
+    <keywords>cordova,lookback,recording,ux,qa,screen recording, screen capture,</keywords>
+    <repo>https://github.com/lookback/cordova-lookback</repo>
     <issue></issue>
     
     <!-- ios -->
