@@ -48,7 +48,7 @@
         <header-file src="src/ios/CDVLookback.h" />
         <source-file src="src/ios/CDVLookback.m" />
         
-        <framework src="src/ios/lookback-sdk/HD/Lookback.framework" custom="true" />
+        <framework src="src/ios/lookback-sdk/Safe/Lookback.framework" custom="true" />
         <resource-file src="src/ios/lookback-sdk/HD/Lookback.framework/Versions/A/Resources/GFSettings.storyboard" />
         <resource-file src="src/ios/lookback-sdk/HD/Lookback.framework/Versions/A/Resources/lookback-logo.png" />
         <resource-file src="src/ios/lookback-sdk/HD/Lookback.framework/Versions/A/Resources/lookback-logo@2x.png" />

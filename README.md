@@ -7,10 +7,10 @@ gratitude.
 
 Methods will be accessable on the window.Lookback object.
 
-Utilizes Lookback HD - **NOT** suitable for deployment to app store, use for
-testing only. If you wish to deploy to the App Store, use the "Safe" framework
-instead of the "HD" one. (I'll make the cordova plugin configure this
-automatically once I figure out how).
+Utilizes Lookback Safe, which will not record with as good framerate as Lookback
+HD, but can freely be deployed to AppStore. (I'll make the cordova plugin
+automatically choose the correct plugin variant (HD or Safe) depending on
+build configuration once I figure out how).
 
 Install
 -------
