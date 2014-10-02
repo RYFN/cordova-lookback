@@ -3,6 +3,8 @@ Cordova Lookback Plugin
 
 Unofficial Cordova plugin for http://lookback.io (v0.6.4)
 
+**This project has now been picked up by the lookback team, please check out https://github.com/lookback/cordova-lookback for the official plugin, ongoing development and support.**
+
 Methods will be accessable on the window.Lookback object.
 
 Utilizes Lookback HD - **NOT** suitable for deployment to app store, use for testing only.
@@ -10,7 +12,7 @@ Utilizes Lookback HD - **NOT** suitable for deployment to app store, use for tes
 Install
 -------
 
-Install with `cordova plugin add https://github.com/RYFN/cordova-lookback`
+Please see the official fork over at https://github.com/lookback/cordova-lookback
 
 Currently supported functions
 -----------------------------

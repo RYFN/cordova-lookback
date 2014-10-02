@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.mubaloo.cordova.lookback"
-      version="0.0.1">
+      version="0.0.3">
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
